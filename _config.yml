@@ -5,3 +5,6 @@ keywords: family, church of jesus christ
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+show_downloads: true
+google_analytics: 385480274

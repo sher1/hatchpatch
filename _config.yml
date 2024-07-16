@@ -2,7 +2,7 @@ title: Hatch Patch Creations
 description: Family Home Evening Packets and Christian Music
 keywords: family, church of jesus christ
 
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
 plugins:
 - jekyll-remote-theme
 

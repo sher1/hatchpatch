@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Songs
+permalink: /songs
 ---
 <ul>
 {% for song in site.data.songss %}

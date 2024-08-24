@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Songs
-permalink: /songs
+permalink: /hatchpatch/songs
 ---
 <ul>
 {% for song in site.data.songss %}

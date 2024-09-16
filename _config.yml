@@ -23,7 +23,7 @@ email: sherwin.harris@gmail.com
 keywords: family, church of jesus christ
 description: >- # this means to ignore newlines until "baseurl:"
   Family Home Evening Packets and Christian Music
-baseurl: "/hatchpatch" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

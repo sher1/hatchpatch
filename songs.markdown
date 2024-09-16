@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Songs
-permalink: /hatchpatch/songs
+permalink: /songs/
 ---
 <ul>
-{% for song in site.data.songss %}
+{% for song in site.data.songs %}
   <li>
     <a href="https://github.com/sher1/hatchpatch/blob/main/songs/{{ song.file }}">
       {{ song.title }} - {{song.description}}

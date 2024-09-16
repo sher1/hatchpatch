@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Black and White Packets
-permalink: /bw-packets
+permalink: /bw-packets/
 ---
+
 <ul>
-{% for song in site.data.songss %}
+{% for packet in site.data.bw %}
   <li>
-    <a href="https://github.com/sher1/hatchpatch/blob/main/songs/{{ song.file }}">
-      {{ song.title }} - {{song.description}}
+    <a href="https://github.com/sher1/hatchpatch/blob/main/songs/{{ packet.pdf }}">
+      {{ packet.title }} - {{packet.type}}
     </a>
   </li>
 {% endfor %}

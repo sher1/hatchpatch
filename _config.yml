@@ -31,6 +31,8 @@ theme: jekyll-theme-cayman
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
+include:
+  - _static
 
 show_downloads: true
 google_analytics: 385480274
